@@ -1,0 +1,12 @@
+{
+  "name": "namerizer",
+  "version": "0.0.01",
+  "description": "A robust random name generator",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jgnewman/namerizer"
+  },
+  "author": "John Newman <rescuecreative@gmail.com>",
+  "license": "MIT"
+}
