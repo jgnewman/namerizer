@@ -1,6 +1,6 @@
 {
   "name": "namerizer",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A robust random name generator",
   "main": "index.js",
   "repository": {

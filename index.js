@@ -1,7 +1,7 @@
 var lists = {
-  ANIMAL_PALS: require("./lists/animalpals"),
-  MILLENIAL_CRINGE: require("./lists/millenialcringe"),
-  FANCY_PANTS: require("./lists/fancypants"),
+  ANIMAL_PALS: require("./lists/animalpals.json"),
+  MILLENIAL_CRINGE: require("./lists/millenialcringe.json"),
+  FANCY_PANTS: require("./lists/fancypants.json"),
 };
 
 function getLists() {
